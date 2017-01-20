@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="463" started-at="2017-01-20T00:10:09Z" finished-at="2017-01-20T00:10:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="463" started-at="2017-01-20T00:10:09Z" finished-at="2017-01-20T00:10:10Z">
+      <class name="crudTests.UserRepositoryCRUDTest">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:crudTests.UserRepositoryCRUDTest@7f560810]" name="testAdd" duration-ms="336" started-at="2017-01-20T01:10:10Z" finished-at="2017-01-20T01:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+      </class> <!-- crudTests.UserRepositoryCRUDTest -->
+      <class name="mapperTests.UserMapperTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:mapperTests.UserMapperTest@6ea12c19]" name="test" duration-ms="118" started-at="2017-01-20T01:10:09Z" finished-at="2017-01-20T01:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- mapperTests.UserMapperTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
